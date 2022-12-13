@@ -1,0 +1,14 @@
+{
+    "singleQuote": false,
+    "semi": true,
+    "printWidth": 80,
+    "bracketSpacing": true,
+    "tabWidth": 4,
+    "prettier/prettier": [
+        "error",
+        {
+            "singleQuote": true,
+            "parser": "flow"
+        }
+    ]
+}
